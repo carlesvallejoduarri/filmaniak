@@ -4,11 +4,16 @@
     "icons-clock": "\\f103",
     "icons-close": "\\f104",
     "icons-heart": "\\f105",
-    "icons-list": "\\f106",
-    "icons-menu": "\\f107",
-    "icons-play": "\\f108",
-    "icons-search": "\\f109",
-    "icons-star": "\\f10a",
-    "icons-user": "\\f10b",
-    "icons-warning": "\\f10c"
+    "icons-language": "\\f106",
+    "icons-list": "\\f107",
+    "icons-menu": "\\f108",
+    "icons-play": "\\f109",
+    "icons-profile": "\\f10a",
+    "icons-search": "\\f10b",
+    "icons-sign-in": "\\f10c",
+    "icons-sign-out": "\\f10d",
+    "icons-sign-up": "\\f10e",
+    "icons-star": "\\f10f",
+    "icons-user": "\\f110",
+    "icons-warning": "\\f111"
 }
